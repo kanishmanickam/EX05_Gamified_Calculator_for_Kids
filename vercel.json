@@ -1,4 +1,5 @@
 {
+  "name": "ex05-gamified-calculator-for-kids",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "devCommand": "npm run dev",
